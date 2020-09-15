@@ -96,6 +96,7 @@ sudo docker build . -t mirror-bot
 ```
 sudo docker run mirror-bot
 ```
+[![Run on Repl.it](https://repl.it/badge/github/suffiny2/python-aria-mirror-bot3)](https://repl.it/github/suffiny2/python-aria-mirror-bot3)
 
 ## Deploy Heroku
 
